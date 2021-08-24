@@ -5,4 +5,12 @@
 - Plotted filtered data in Bar and Line plots using matplotlib.
 - Provided GUI to the user using Tkinter so as to allow him to upload files for analysing.
 
-## 
+## Some of the insights
+### Price vs Sales
+![Price_vs_Sale](https://github.com/honeykpatel/Store-Sales-Analysis/blob/main/Price_vs_Sale.jpeg)
+### Yearly
+![Yearly](https://github.com/honeykpatel/Store-Sales-Analysis/blob/main/Year.jpeg)
+### Monthly
+![Monthly](https://github.com/honeykpatel/Store-Sales-Analysis/blob/main/Month.jpeg)
+
+
